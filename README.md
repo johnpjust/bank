@@ -1,4 +1,4 @@
-# bank# Case Study of bank data analysis
+# Case Study of bank data analysis
 
 
 <br><br>
