@@ -1,4 +1,4 @@
-# Case Study of bank data analysis
+# Case Study -- Bank Marketing Capaign Data Analysis
 
 
 <br><br>
