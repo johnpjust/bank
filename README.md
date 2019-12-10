@@ -2,7 +2,6 @@
 
 
 <br><br>
-*Bias Correction*
 <p align="center">
   <img src="bankd_data/bank_presentation_Page_01.jpg" width="900" title="scale_lighting">
 </p>
